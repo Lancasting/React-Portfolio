@@ -12,11 +12,11 @@ function Contact() {
                 </div>
                 <div className="form-group">
                     <label for="message">Github: </label>
-                    <a href="https://github.com/Lancasting" className="card-link" target="_blank">Lancasting</a>
+                    <a href="https://github.com/Lancasting" className="card-link" target="_blank" rel="noopener noreferrer">Lancasting</a>
                 </div>
                 <div className="form-group">
                     <label for="linkedin">Linkedin: </label>
-                    <a href="https://www.linkedin.com/in/samuellancaster" className="card-link" target="_blank">Samuel Lancaster</a>
+                    <a href="https://www.linkedin.com/in/samuellancaster" className="card-link" target="_blank" rel="noopener noreferrer">Samuel Lancaster</a>
                 </div>
             </form>
         </section>
