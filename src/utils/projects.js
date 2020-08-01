@@ -1,6 +1,7 @@
 export const Projects = [
         {
-            image: "../images/Swell Dwell.png",
+            id: 0,
+            image: "images/SwellDwell.png",
             title: "Swell Dwell",
             info: "A team of us created this website. Our main focus was the API calls. Our team really loved the idea of the website and if we had more time we would have added a lot more functionality.",
             site: "https://lancasting.github.io/Project-1/",
@@ -8,6 +9,7 @@ export const Projects = [
 
         },
         {
+            id: 1,
             image: "../images/MovieLover.png",
             title: "Movie Lover",
             info: "This is what we did for project 2 of our Bootcamp. My team really excelled in communicating what we were working on and if anyone needed help we all jumped in to lend a hand. The main focus was the CRUD operations of our SQL database.",
@@ -16,6 +18,7 @@ export const Projects = [
 
         },
         {
+            id: 2,
             image: "../images/Burger-log.png",
             title: "Burger Log",
             info: "This is basic burger logger I created. Emphasizing using some of the CRUD operations.",
@@ -24,6 +27,7 @@ export const Projects = [
 
         },
         {
+            id: 3,
             image: "../images/Employee-tracker.png",
             title: "Employee Tracker",
             info: "This is a simple employee tracker that you run through node. Basic SQL CRUD operations managing a database of employees",
@@ -32,6 +36,7 @@ export const Projects = [
 
         },
         {
+            id: 4,
             image: "../images/Weather App.png",
             title: "Weather App",
             info: "I created a basic weather app. Mainly focused on the interworkings of the API calls",
@@ -40,6 +45,7 @@ export const Projects = [
 
         },
         {
+            id: 5,
             image: "../images/Formula 1 quiz.png",
             title: "Quiz",
             info: "A Formula 1 quiz I created. Javascript was the main focus of this.",
