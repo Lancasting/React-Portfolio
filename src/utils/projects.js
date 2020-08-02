@@ -1,7 +1,7 @@
 export const Projects = [
         {
             id: 0,
-            image: "images/SwellDwell.png",
+            image: "/images/SwellDwell.png",
             title: "Swell Dwell",
             info: "A team of us created this website. Our main focus was the API calls. Our team really loved the idea of the website and if we had more time we would have added a lot more functionality.",
             site: "https://lancasting.github.io/Project-1/",
