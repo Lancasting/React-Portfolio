@@ -10,7 +10,7 @@ export const Projects = [
         },
         {
             id: 1,
-            image: "../images/MovieLover.png",
+            image: "./images/MovieLover.png",
             title: "Movie Lover",
             info: "This is what we did for project 2 of our Bootcamp. My team really excelled in communicating what we were working on and if anyone needed help we all jumped in to lend a hand. The main focus was the CRUD operations of our SQL database.",
             site: "https://projectdash.herokuapp.com/",
@@ -19,7 +19,7 @@ export const Projects = [
         },
         {
             id: 2,
-            image: "../images/Burger-log.png",
+            image: "./images/Burger-log.png",
             title: "Burger Log",
             info: "This is basic burger logger I created. Emphasizing using some of the CRUD operations.",
             site: "https://stormy-hollows-97400.herokuapp.com/",
@@ -28,7 +28,7 @@ export const Projects = [
         },
         {
             id: 3,
-            image: "../images/Employee-tracker.png",
+            image: "./images/Employee-tracker.png",
             title: "Employee Tracker",
             info: "This is a simple employee tracker that you run through node. Basic SQL CRUD operations managing a database of employees",
             site: "",
@@ -37,7 +37,7 @@ export const Projects = [
         },
         {
             id: 4,
-            image: "../images/Weather App.png",
+            image: "./images/Weather App.png",
             title: "Weather App",
             info: "I created a basic weather app. Mainly focused on the interworkings of the API calls",
             site: "https://lancasting.github.io/Weather-App/",
@@ -46,7 +46,7 @@ export const Projects = [
         },
         {
             id: 5,
-            image: "../images/Formula 1 quiz.png",
+            image: "./images/Formula 1 quiz.png",
             title: "Quiz",
             info: "A Formula 1 quiz I created. Javascript was the main focus of this.",
             site: "https://lancasting.github.io/F1-Quiz/",
