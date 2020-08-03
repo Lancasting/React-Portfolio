@@ -1,4 +1,5 @@
 import React from "react";
+import Profile from "../../images/profile.jpg";
 
 
 function Home() {
@@ -11,7 +12,7 @@ function Home() {
                     </div>
                     <div className="row">
                         <div className="col-md-3">
-                            <img src="./assets/images/IMG_9973-2.jpg" alt="Samuel Lancaster" className="img-thumbnail" />
+                            <img src={Profile} alt="Samuel Lancaster" className="img-thumbnail" />
                         </div>
                         <div className="col-md-9">
                             <h5>

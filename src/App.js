@@ -6,13 +6,15 @@ import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import './App.css';
+import Snowbird from "./images/snowbird.jpg";
 
 function App() {
+  console.log(Snowbird);
   return (
     <Router>
-      <div>
+      <div styles={{ backgroundImage: Snowbird}}>
+      <Wrapper>
         <Navbar />
-        <Wrapper>
           <Route exact path="/" component={Home} />
           <Route exact path="/home" component={Home}/>
           <Route exact path="/portfolio" component={Portfolio} />
