@@ -1,5 +1,6 @@
 import React from "react";
 import Profile from "../../images/profile.jpg";
+import "./style.css";
 
 
 function Home() {

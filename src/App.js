@@ -5,6 +5,7 @@ import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
+import Footer from "./components/Footer";
 import './App.css';
 import Snowbird from "./images/snowbird.jpg";
 
@@ -12,13 +13,14 @@ function App() {
   console.log(Snowbird);
   return (
     <Router>
-      <div styles={{ backgroundImage: Snowbird}}>
+      <div>
       <Wrapper>
         <Navbar />
           <Route exact path="/" component={Home} />
           <Route exact path="/home" component={Home}/>
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
+          <Footer />
         </Wrapper>
       </div>
     </Router>

@@ -1,0 +1,7 @@
+.resume {
+    color: white;
+    margin-left: 100px;
+}
+.resume:hover{
+    color: darkgray;
+}

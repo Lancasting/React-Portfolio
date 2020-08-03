@@ -1,5 +1,7 @@
 .wrapper{
     background-image: url('../../images/snowbird.jpg');
     background-size: cover;
-    margin: auto;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
 }
