@@ -12,13 +12,13 @@ import './App.css';
 function App() {
   return (
     // <div styles={{ backgroundImage:`url(${Snowbird})`, height: "100%" }}>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL || "/"}>
       <div>
       <Wrapper>
         <Navbar />
         <Switch>
           <Route exact path="/" component={Home} />
-          {/* <Route exact path="/home" component={Home}/> */}
+          <Route exact path="/home" component={Home}/>
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
           </Switch>
