@@ -1,16 +1,12 @@
 .navbar{
     background: rgba(252, 252, 252, 0) !important;
-    color: white;
 }
-.navbar-brand {
-    color: white;
-}
+
 .navbar-toggler-icon {
     order:0;
     float: left;
   }
 .navbar-link {
-    color: white;
     padding-right: .5rem;
     padding-left: .5rem;
 }

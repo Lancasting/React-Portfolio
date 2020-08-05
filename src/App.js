@@ -7,11 +7,11 @@ import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer";
 import './App.css';
-import Snowbird from "./images/snowbird.jpg";
+// import Snowbird from "./images/snowbird.jpg";
 
 function App() {
-  console.log(Snowbird);
   return (
+    // <div styles={{ backgroundImage:`url(${Snowbird})`, height: "100%" }}>
     <Router>
       <div>
       <Wrapper>
@@ -24,6 +24,7 @@ function App() {
         </Wrapper>
       </div>
     </Router>
+    // </div>
   );
 }
 

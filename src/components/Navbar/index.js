@@ -4,6 +4,8 @@ import "./style.css";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Navbar() {
+
+  const [path, setPath] = React.useState(window.location.pathname);
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <Link className="navbar-brand" to="/">
@@ -14,8 +16,9 @@ function Navbar() {
           <li className="nav-item">
             <Link
               to="/"
+              onClick={() => setPath('/home')}
               className={
-                window.location.pathname === "/" || window.location.pathname === "/home"
+                path ==="/home"
                   ? "nav-link active"
                   : "nav-link"
               }
@@ -26,7 +29,8 @@ function Navbar() {
           <li className="nav-item">
             <Link
               to="/portfolio"
-              className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
+              onClick={() => setPath('/portfolio')}
+              className={path === "/portfolio" ? "nav-link active" : "nav-link"}
             >
               Portfolio
             </Link>
@@ -34,7 +38,8 @@ function Navbar() {
           <li className="nav-item">
             <Link
               to="/contact"
-              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+              onClick={() => setPath('/contact')}
+              className={path === "/contact" ? "nav-link active" : "nav-link"}
             >
               Contact
             </Link>
