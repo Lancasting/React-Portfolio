@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio",
-  "homepage": "https://Lancasting.github.io/home",
+  "homepage": "https://lancasting.github.io/React-Porfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
