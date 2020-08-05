@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.60e68d3e.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.e9977f01.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.e9977f01.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
-    "static/js/2.d5714cb1.chunk.js": "/react-portfolio/static/js/2.d5714cb1.chunk.js",
-    "static/js/2.d5714cb1.chunk.js.map": "/react-portfolio/static/js/2.d5714cb1.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "precache-manifest.c0592a91caeab2c2cda7e1bccd52527e.js": "/react-portfolio/precache-manifest.c0592a91caeab2c2cda7e1bccd52527e.js",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.60e68d3e.chunk.css.map": "/react-portfolio/static/css/main.60e68d3e.chunk.css.map",
-    "static/js/2.d5714cb1.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.d5714cb1.chunk.js.LICENSE.txt",
-    "static/media/Burger-log.png": "/react-portfolio/static/media/Burger-log.a98f68e9.png",
-    "static/media/Employee-tracker.png": "/react-portfolio/static/media/Employee-tracker.c8fab9dc.png",
-    "static/media/Formula-1-quiz1.png": "/react-portfolio/static/media/Formula-1-quiz1.71b9274d.png",
-    "static/media/MovieLover.png": "/react-portfolio/static/media/MovieLover.1398eb69.png",
-    "static/media/SwellDwell.png": "/react-portfolio/static/media/SwellDwell.a7dd3229.png",
-    "static/media/Weather App.png": "/react-portfolio/static/media/Weather App.c9793e46.png",
-    "static/media/profile.jpg": "/react-portfolio/static/media/profile.d59bd6be.jpg",
-    "static/media/style.css": "/react-portfolio/static/media/snowbird.fbd72cb4.jpg"
+    "main.css": "/React-Porfolio/static/css/main.7bc19368.chunk.css",
+    "main.js": "/React-Porfolio/static/js/main.f2fc86bc.chunk.js",
+    "main.js.map": "/React-Porfolio/static/js/main.f2fc86bc.chunk.js.map",
+    "runtime-main.js": "/React-Porfolio/static/js/runtime-main.198f7da9.js",
+    "runtime-main.js.map": "/React-Porfolio/static/js/runtime-main.198f7da9.js.map",
+    "static/js/2.d5714cb1.chunk.js": "/React-Porfolio/static/js/2.d5714cb1.chunk.js",
+    "static/js/2.d5714cb1.chunk.js.map": "/React-Porfolio/static/js/2.d5714cb1.chunk.js.map",
+    "index.html": "/React-Porfolio/index.html",
+    "precache-manifest.531484562877a8f95479ced6810aa3d7.js": "/React-Porfolio/precache-manifest.531484562877a8f95479ced6810aa3d7.js",
+    "service-worker.js": "/React-Porfolio/service-worker.js",
+    "static/css/main.7bc19368.chunk.css.map": "/React-Porfolio/static/css/main.7bc19368.chunk.css.map",
+    "static/js/2.d5714cb1.chunk.js.LICENSE.txt": "/React-Porfolio/static/js/2.d5714cb1.chunk.js.LICENSE.txt",
+    "static/media/Burger-log.png": "/React-Porfolio/static/media/Burger-log.a98f68e9.png",
+    "static/media/Employee-tracker.png": "/React-Porfolio/static/media/Employee-tracker.c8fab9dc.png",
+    "static/media/Formula-1-quiz1.png": "/React-Porfolio/static/media/Formula-1-quiz1.71b9274d.png",
+    "static/media/MovieLover.png": "/React-Porfolio/static/media/MovieLover.1398eb69.png",
+    "static/media/SwellDwell.png": "/React-Porfolio/static/media/SwellDwell.a7dd3229.png",
+    "static/media/Weather App.png": "/React-Porfolio/static/media/Weather App.c9793e46.png",
+    "static/media/profile.jpg": "/React-Porfolio/static/media/profile.d59bd6be.jpg",
+    "static/media/style.css": "/React-Porfolio/static/media/snowbird.fbd72cb4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.213b1880.js",
+    "static/js/runtime-main.198f7da9.js",
     "static/js/2.d5714cb1.chunk.js",
-    "static/css/main.60e68d3e.chunk.css",
-    "static/js/main.e9977f01.chunk.js"
+    "static/css/main.7bc19368.chunk.css",
+    "static/js/main.f2fc86bc.chunk.js"
   ]
 }
