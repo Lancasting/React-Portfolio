@@ -1,13 +1,9 @@
 .footer {
-    min-height: 100px;
-    position: bottom;
-    background: rgba(252, 252, 252, 0) !important;
-  }
-  
-  .footer span {
     position: absolute;
+    background: rgba(252, 252, 252, 0) !important;
+    inline-size: auto;
     bottom: 0;
     left: 0;
-    right: 0;
     padding: 3px;
   }
+  

@@ -6,14 +6,15 @@ import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer";
-import './App.css';
-// import Snowbird from "./images/snowbird.jpg";
+import Snowbird from "../src/images/snowbird.jpg"
+import "./index.css";
+
 
 function App() {
   return (
-    // <div styles={{ backgroundImage:`url(${Snowbird})`, height: "100%" }}>
-    <Router basename={process.env.PUBLIC_URL || "/"}>
-      <div>
+    <div>
+    <div styles={{ backgroundImage: Snowbird }}/>
+    <Router basename = {process.env.PUBLIC_URL || "/"}>
       <Wrapper>
         <Navbar />
         <Switch>
@@ -24,9 +25,8 @@ function App() {
           </Switch>
           <Footer />
       </Wrapper>
-      </div>
     </Router>
-    // </div>
+      </div>
   );
 }
 
