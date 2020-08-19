@@ -2,6 +2,8 @@
     background-image: url('../../images/snowbird.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-y: auto;
     color: white;
     font-family: 'Ubuntu', sans-serif;
     height: 100vh;
