@@ -9,7 +9,7 @@ function Home() {
             <div className="row">
                 <div className="col-md-12">
                     <div className="page-header">
-                        <h1>About Me</h1>
+                        <h2>About Me</h2>
                     </div>
                     <div className="row">
                         <div className="col-md-3">
@@ -24,12 +24,13 @@ function Home() {
                         </div>
                     </div>
                 </div>
-                <div className="Resume">
+                <div className="resume">
                     <a href="./assets/files/resume.pdf" rel="nofollow noreferrer" target="_blank" className="resume">
-                        <h2>Resume</h2>
+                        <h4>Resume</h4>
                     </a>
                 </div>
             </div>
+            <div className="fill"></div>
         </section >
     );
 }
