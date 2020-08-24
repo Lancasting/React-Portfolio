@@ -1,6 +1,7 @@
 import React from "react";
 import Profile from "../../images/profile.jpg";
 import "./style.css";
+import Resume from "../../files/resume.pdf"
 
 
 function Home() {
@@ -25,7 +26,7 @@ function Home() {
                     </div>
                 </div>
                 <div className="resume">
-                    <a href="./assets/files/resume.pdf" rel="nofollow noreferrer" target="_blank" className="resume">
+                    <a href={Resume} rel="nofollow noreferrer" target="_blank" className="resume">
                         <h4>Resume</h4>
                     </a>
                 </div>
