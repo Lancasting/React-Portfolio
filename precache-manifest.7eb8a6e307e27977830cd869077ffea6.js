@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe160582b598b132e5f51e1c4d4f1865",
+    "revision": "0b0e0fc7e86cc10b5761e6ba8da9e487",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "ac77965c66c97358d522",
+    "revision": "7c0291ff8aca44fbe145",
     "url": "/React-Portfolio/static/css/main.4ccca9ed.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.dd4b56d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac77965c66c97358d522",
-    "url": "/React-Portfolio/static/js/main.95208a05.chunk.js"
+    "revision": "7c0291ff8aca44fbe145",
+    "url": "/React-Portfolio/static/js/main.9adf424f.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/Employee-tracker.c8fab9dc.png"
   },
   {
-    "revision": "71b9274de8af366382282e624a008d78",
-    "url": "/React-Portfolio/static/media/Formula-1-quiz1.71b9274d.png"
+    "revision": "81aa42bfa52bada5fb4ab5c52e5a55fd",
+    "url": "/React-Portfolio/static/media/HALP.81aa42bf.png"
   },
   {
     "revision": "1398eb699bbc41e53df85b1ef5f2f8d5",
