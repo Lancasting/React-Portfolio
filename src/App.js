@@ -6,14 +6,12 @@ import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer";
-// import Snowbird from "../src/images/snowbird.jpg"
 import "./index.css";
 
 
 function App() {
   return (
     <div>
-    {/* <div styles={{ backgroundImage: Snowbird }}/> */}
     <Router basename = {process.env.PUBLIC_URL || "/"}>
       <Wrapper>
         <Navbar />
