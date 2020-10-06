@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.4ccca9ed.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.9adf424f.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.9adf424f.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.f637e567.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.0c5f253a.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.0c5f253a.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
     "static/js/2.dd4b56d9.chunk.js": "/React-Portfolio/static/js/2.dd4b56d9.chunk.js",
     "static/js/2.dd4b56d9.chunk.js.map": "/React-Portfolio/static/js/2.dd4b56d9.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.7eb8a6e307e27977830cd869077ffea6.js": "/React-Portfolio/precache-manifest.7eb8a6e307e27977830cd869077ffea6.js",
+    "precache-manifest.fa4afa850ef16f8834a365bfdb529fc4.js": "/React-Portfolio/precache-manifest.fa4afa850ef16f8834a365bfdb529fc4.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
-    "static/css/main.4ccca9ed.chunk.css.map": "/React-Portfolio/static/css/main.4ccca9ed.chunk.css.map",
+    "static/css/main.f637e567.chunk.css.map": "/React-Portfolio/static/css/main.f637e567.chunk.css.map",
     "static/js/2.dd4b56d9.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.dd4b56d9.chunk.js.LICENSE.txt",
     "static/media/Burger-log.png": "/React-Portfolio/static/media/Burger-log.a98f68e9.png",
     "static/media/Employee-tracker.png": "/React-Portfolio/static/media/Employee-tracker.c8fab9dc.png",
@@ -19,13 +19,13 @@
     "static/media/SwellDwell.png": "/React-Portfolio/static/media/SwellDwell.a7dd3229.png",
     "static/media/Weather App.png": "/React-Portfolio/static/media/Weather App.c9793e46.png",
     "static/media/profile.jpg": "/React-Portfolio/static/media/profile.d59bd6be.jpg",
-    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.8404bcda.pdf",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.a827c039.pdf",
     "static/media/style.css": "/React-Portfolio/static/media/snowbird.fbd72cb4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.266d4783.js",
     "static/js/2.dd4b56d9.chunk.js",
-    "static/css/main.4ccca9ed.chunk.css",
-    "static/js/main.9adf424f.chunk.js"
+    "static/css/main.f637e567.chunk.css",
+    "static/js/main.0c5f253a.chunk.js"
   ]
 }
