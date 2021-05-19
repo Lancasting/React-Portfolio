@@ -21,7 +21,7 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
           </Switch>
-          <Footer />
+          <Footer/>
       </Wrapper>
     </Router>
       </div>

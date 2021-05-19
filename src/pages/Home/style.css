@@ -7,5 +7,5 @@
     color: darkgray;
 }
 .footer {
-    bottom: 0;
+    display: table-footer-group;
 }

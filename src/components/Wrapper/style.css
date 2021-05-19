@@ -1,8 +1,9 @@
 .wrapper{
     background-image: url('../../images/snowbird.jpg');
+    background-position: center;
     background-size: cover;
-    /* background-repeat: no-repeat; */
-    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     overflow-y: auto;
     color: white;
     font-family: 'Ubuntu', sans-serif;

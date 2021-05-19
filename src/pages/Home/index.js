@@ -8,7 +8,7 @@ function Home() {
     return (
         <section className="container color-background">
             <div className="row">
-                <div className="col-md-12">
+                <div className="col-lg-12">
                     <div className="page-header">
                         <h2>About Me</h2>
                     </div>
@@ -21,7 +21,7 @@ function Home() {
                                 I like to code websites. Recently finished bootcamp graduate looking to challenge myself and aim for the stars with my career.
                                 </h5>
                             <h5>
-                                Feel free to look around at the different projects listed on this site. If you like what you see head over to the contact page to reach me.
+                                Feel free to look around at the different projects listed on this site. If you like what you see, head over to the contact page to reach me.
                                 </h5>
                         </div>
                     </div>
