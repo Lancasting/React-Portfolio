@@ -18,15 +18,16 @@ function Home() {
                         </div>
                         <div className="col-md-9">
                             <h5>
-                                Originally from Wyoming and I have been in Utah for 9 years. I have been working in the Information
-                                technology field for 7 years now. I am very much looking forward to switching things up in the development
-                                world.
-                            </h5>
+                                I like to code websites. Recently finished bootcamp graduate looking to challenge myself and aim for the stars with my career.
+                                </h5>
+                            <h5>
+                                Feel free to look around at the different projects listed on this site. If you like what you see head over to the contact page to reach me.
+                                </h5>
                         </div>
                     </div>
                 </div>
                 <div className="resume">
-                    <a href={Resume} rel="nofollow noreferrer" target="_blank" className="resume">
+                    <a href={Resume} rel="noopener noreferrer" target="_blank" className="resume">
                         <h4>Resume</h4>
                     </a>
                 </div>
