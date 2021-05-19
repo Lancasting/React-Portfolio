@@ -32,7 +32,7 @@ function Home() {
                     </a>
                 </div>
             </div>
-            <div className="fill"></div>
+            {/* <div className="fill"></div> */}
         </section >
     );
 }
