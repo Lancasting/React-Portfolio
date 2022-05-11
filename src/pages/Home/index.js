@@ -18,7 +18,7 @@ function Home() {
                         </div>
                         <div className="col-md-9">
                             <h5>
-                                I like to code websites. Recently finished bootcamp graduate looking to challenge myself and aim for the stars with my career.
+                                I like to code websites. I am looking to further my career in the web development world. Currently I have been coding websites on the side with a few colleagues I met through the development bootcamp.
                                 </h5>
                             <h5>
                                 Feel free to look around at the different projects listed on this site. If you like what you see, head over to the contact page to reach me.
