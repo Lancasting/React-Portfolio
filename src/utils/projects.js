@@ -4,6 +4,8 @@ import burgerLogger from "../images/Burger-log.png";
 import employeeTracker from "../images/Employee-tracker.png";
 import weatherTracker from "../images/Weather App.png";
 import halp from "../images/HALP.png";
+import ccg from "../images/CCG.png";
+import studioBoise from "../images/StudioBoise.png"
 
 export const Projects = [
     {
@@ -58,6 +60,24 @@ export const Projects = [
         info: "I created a basic weather app. Mainly focused on the interworkings of the API calls",
         site: "https://lancasting.github.io/Weather-App/",
         github: "https://github.com/Lancasting/Weather-App"
+
+    },
+    {
+        id: 6,
+        image: ccg,
+        title: "CCG",
+        info: "This is a website that we built for a client that needed to be both mobile friendly as well as looking good in full screen. We utilized Next.js for this one.",
+        site: "https://ljcrapo.github.io/ccg/#",
+        github: "https://github.com/ljcrapo/ccg"
+
+    },
+    {
+        id: 7,
+        image: studioBoise,
+        title: "Studio Boise",
+        info: "This project is ongoing as we are now focusing on making it mobile friendly.",
+        site: "https://main.d1mugerk36zc64.amplifyapp.com/",
+        github: "https://github.com/MartinMartinez83/studio-boise"
 
     },
 ]

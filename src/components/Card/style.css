@@ -1,0 +1,19 @@
+.card {
+    padding: 0;
+    border: 0;
+}
+
+
+.card-title {
+    color: black;
+}
+
+.span {
+    white-space: nowrap; 
+}
+
+.links {
+    color: black;
+    display: inline-block; 
+    padding: 0 15px 0 15px;
+}
