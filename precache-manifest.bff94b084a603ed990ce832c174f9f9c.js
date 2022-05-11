@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8c14bbe632b6f11eed95aa164edece7",
+    "revision": "cfb7f9d26a84d6375b2fba4ce08da370",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "c5b220e6c1d5859d2e81",
-    "url": "/React-Portfolio/static/css/main.f637e567.chunk.css"
+    "revision": "0612685bfab41fb6abd2",
+    "url": "/React-Portfolio/static/css/main.61637e2c.chunk.css"
   },
   {
-    "revision": "8db2e0ddf198c96b503e",
-    "url": "/React-Portfolio/static/js/2.dd4b56d9.chunk.js"
+    "revision": "4aa2b82ba3ced9ac6555",
+    "url": "/React-Portfolio/static/js/2.cd3318a3.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/React-Portfolio/static/js/2.dd4b56d9.chunk.js.LICENSE.txt"
+    "url": "/React-Portfolio/static/js/2.cd3318a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5b220e6c1d5859d2e81",
-    "url": "/React-Portfolio/static/js/main.613e62df.chunk.js"
+    "revision": "0612685bfab41fb6abd2",
+    "url": "/React-Portfolio/static/js/main.df5e28a9.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a98f68e922a851b7e6b9a1ec71ce7602",
     "url": "/React-Portfolio/static/media/Burger-log.a98f68e9.png"
+  },
+  {
+    "revision": "68ff0725d22b1750c8fe452ae2322dd1",
+    "url": "/React-Portfolio/static/media/CCG.68ff0725.png"
   },
   {
     "revision": "c8fab9dc46396841ec3626be0361e094",
@@ -38,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1398eb699bbc41e53df85b1ef5f2f8d5",
     "url": "/React-Portfolio/static/media/MovieLover.1398eb69.png"
+  },
+  {
+    "revision": "1e07a114a0539533f5d864f85b6a20ec",
+    "url": "/React-Portfolio/static/media/StudioBoise.1e07a114.png"
   },
   {
     "revision": "a7dd3229373e6807b8db8de01391685f",
@@ -56,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/resume.9b6f53bc.pdf"
   },
   {
-    "revision": "fbd72cb4f2e92bf35489aff85e7aba68",
-    "url": "/React-Portfolio/static/media/snowbird.fbd72cb4.jpg"
+    "revision": "2a8fc2b5840ae7d0aac635b5a7815dc0",
+    "url": "/React-Portfolio/static/media/snowbird.2a8fc2b5.jpg"
   }
 ]);
